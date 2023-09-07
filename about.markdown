@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 I'm a substance abuse counselor by profession, coder by hobby.
-My interests also including reading and writing fiction.
+My interests also include reading and writing fiction.
